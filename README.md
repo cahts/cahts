@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>30. Software Engineer 💻 </b>
+  <b> 💻 </b>
 </p>
 
 <p align="center">
